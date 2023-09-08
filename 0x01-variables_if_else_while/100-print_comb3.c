@@ -18,29 +18,25 @@
  */
 int main(void)
 {
-	int c;
-	int d = 0
+	int i;
+	int j;
 
-	while (d < 10)
+	i = 0;
+	while (i <= 8)
 	{
-		c = 0;
-		while (c < 10)
+		j = i + 1;
+		while (j <= 9)
 		{
-			if (d < c)
+			putchar(i + '0');
+			putchar(j + '0');
+			if (i != 8)
 			{
-				putchar('0' + d);
-				putchar('0' + c);
-
-				if (d != 8)
-				{
-					putchar(',');
-					putchar(' ');
-				}
+				putchar(',');
+				putchar(' ');
 			}
-
-			c++;
+			j++;
 		}
-		d++;
+		i++;
 	}
 	putchar('\n');
 	return (0);
