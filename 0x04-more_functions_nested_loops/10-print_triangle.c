@@ -3,7 +3,7 @@
 /**
  * print_triangle - check for a digit
  * @size : integer type
- * Return:void
+ * Return: void
  */
 
 void print_triangle(int size)
@@ -23,7 +23,7 @@ void print_triangle(int size)
 		while (j < i)
 		{
 			_putchar('#');
-			ii++;
+			j++;
 		}
 
 		_putchar('\n');
