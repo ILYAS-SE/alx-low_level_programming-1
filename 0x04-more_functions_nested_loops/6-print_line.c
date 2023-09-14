@@ -1,21 +1,21 @@
 #include "main.h"
 
 /**
- * print_line - check for a digit
- * @n : number of _ to be printed
- * Return:void
+ * print_line - Draws a straight line using the character _.
+ *
+ * @n: The number of _ characters to be printed.
  */
 
 void print_line(int n)
 {
+	int i;
 
-	int i = 0;
-
-	while (0 < n && i < n)
+	if (n <= 0)
+		_putchar('\n');
+	else
 	{
-		_putchar('_');
-		i++;
+		for (i = 1; i <= n; i++)
+			_putchar('_');
+		_putchar('\n');
 	}
-	_putchar('\n');
-
 }
