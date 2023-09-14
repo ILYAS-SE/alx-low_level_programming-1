@@ -7,15 +7,15 @@ This project is designed to introduce you to the world of C programming. You wil
 Before diving into the tasks, it's essential to explore the following resources:
 
 - [Everything you need to know to start with C.pdf](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2022/4/e0ccf91eec6b977a9e00ed384dc285df9c2772e3.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230914T215204Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e753dcc11a0bd96cd252a44f099ab351d12f0cde20ec7dec2ba0d01b6bfc2316) (You do not have to learn everything in there yet, but make sure you read it entirely first)
-- [Dennis Ritchie](https://example.com/dennis-ritchie)
-- ["C" Programming Language: Brian Kernighan](https://example.com/brian-kernighan)
-- [Why C Programming Is Awesome](https://example.com/why-c-is-awesome)
-- [Learning to program in C part 1](https://example.com/learn-c-part1)
-- [Learning to program in C part 2](https://example.com/learn-c-part2)
-- [Understanding C program Compilation Process](https://example.com/compilation-process)
-- [Betty Coding Style](https://example.com/betty-coding-style)
-- [Hash-bang under the hood](https://example.com/hash-bang)
-- [Linus Torvalds on C vs. C++](https://example.com/linus-torvalds-c-vs-cpp)
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+- ["C" Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+- [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+- [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+- [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU&ab_channel=JonathanEngelsma)
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+- [Betty Coding Style](https://github.com/alx-tools/Betty/wiki)
+- [Hash-bang under the hood]([https://example.com/hash-bang](https://twitter.com/unix_byte/status/1024147947393495040?s=21))
+- [Linus Torvalds on C vs. C++](http://harmful.cat-v.org/software/c++/linus)
 
 ### Man or Help
 You can also refer to the following man pages and help resources:
